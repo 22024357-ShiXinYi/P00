@@ -96,7 +96,7 @@ public class CalculatorTest {
          int actual = cal.divide(a,b);
 
          int expected = 5;
-         assertEquals(5,actual);
+         assertEquals(expected,actual);
 	}
 	public int divide(int a, int b) {
 		if(b == 0) {
