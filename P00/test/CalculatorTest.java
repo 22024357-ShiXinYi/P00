@@ -77,7 +77,7 @@ public class CalculatorTest {
         assertEquals(expected,actual);
 }
 	@Test
-	public void testMul( ){
+	public void testMultiple( ){//command
         int a = 5;
         int b = 10;
 
